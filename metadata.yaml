@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31488'
     url: http://www.gutenberg.org/2009/agents/31488
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25656#The-Mystery-of-a-Turkish-Bath
 gutenberg_issued: '2008-05-31'
 gutenberg_type: Text
 identifiers:
